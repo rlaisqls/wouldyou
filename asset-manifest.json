@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wouldyou/static/css/main.c7e338ed.css",
+    "main.js": "/wouldyou/static/js/main.09a3524f.js",
+    "index.html": "/wouldyou/index.html",
+    "main.c7e338ed.css.map": "/wouldyou/static/css/main.c7e338ed.css.map",
+    "main.09a3524f.js.map": "/wouldyou/static/js/main.09a3524f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7e338ed.css",
+    "static/js/main.09a3524f.js"
+  ]
+}
